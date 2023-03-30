@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I think I could eat salmon sushi every day if mercury poisoning didn't exist...
 
 ✨ Check me out here! ✨
-LinkedIn: https://www.linkedin.com/in/feliciafionachen/
-Portfolio: https://feliciachen.journoportfolio.com/#/
-Resume: https://feliciachen.journoportfolio.com/resume/#/
+- LinkedIn: https://www.linkedin.com/in/feliciafionachen/
+- Portfolio: https://feliciachen.journoportfolio.com/#/
+- Resume: https://feliciachen.journoportfolio.com/resume/#/
