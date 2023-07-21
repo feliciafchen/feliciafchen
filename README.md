@@ -8,5 +8,3 @@
 
 ✨ Check me out here! ✨
 - LinkedIn: https://www.linkedin.com/in/feliciafionachen/
-- Portfolio: https://feliciachen.journoportfolio.com/#/
-- Resume: https://feliciachen.journoportfolio.com/resume/#/
