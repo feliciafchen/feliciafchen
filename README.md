@@ -1,7 +1,7 @@
 ### Nice to meet ya! I'm Felicia, welcome to my GitHub :)
 
 - 🔭 I’m currently working on my B.S. in Computer Science at the University of California, Los Angeles.
-- 🌱 I was recently a Software Engineer intern at Snap Inc. working on the Machine Learning Feature Store Team.
+- 🌱 I am a Software Engineer intern at Snap Inc. working on the Machine Learning Feature Store Team.
 - 📫 Reach out to me through my email: feliciachen18@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I think I could eat salmon sushi every day if mercury poisoning didn't exist...
